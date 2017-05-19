@@ -8,9 +8,8 @@ Implementar una bateria de proves per provar la funcionalitat d’una classe det
 Utilitzar JUnit i el connector Eclemma per testejar una part del codi font (Java).
 
 ## Objectius a assolir
- (per part de l’alumnat)
-- L’alumnat serà capaç de generar un conjunt de casos de proves adients per afavorir el manteniment i desenvolupament de l’aplicació desenvolupada.
-- Conèixer les bones pràctiques i implicacions de tenir un mal disseny en la confecció del codi font.
+- Ser capaç de generar un conjunt de casos de proves adients per afavorir el manteniment i desenvolupament de l’aplicació desenvolupada.
+- Conguis les bones pràctiques i implicacions de tenir un mal disseny en la confecció del codi font.
 
 ## Requeriments previs
 - Saber llegir un graf de flux.
